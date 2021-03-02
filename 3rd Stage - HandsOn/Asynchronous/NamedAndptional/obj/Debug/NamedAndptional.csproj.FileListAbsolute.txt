@@ -1,0 +1,7 @@
+E:\handsonphase3\NamedAndptional\bin\Debug\NamedAndptional.exe.config
+E:\handsonphase3\NamedAndptional\bin\Debug\NamedAndptional.exe
+E:\handsonphase3\NamedAndptional\bin\Debug\NamedAndptional.pdb
+E:\handsonphase3\NamedAndptional\obj\Debug\NamedAndptional.csprojAssemblyReference.cache
+E:\handsonphase3\NamedAndptional\obj\Debug\NamedAndptional.csproj.CoreCompileInputs.cache
+E:\handsonphase3\NamedAndptional\obj\Debug\NamedAndptional.exe
+E:\handsonphase3\NamedAndptional\obj\Debug\NamedAndptional.pdb

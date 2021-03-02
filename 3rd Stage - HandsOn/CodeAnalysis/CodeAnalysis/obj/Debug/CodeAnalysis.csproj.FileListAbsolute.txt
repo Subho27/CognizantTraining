@@ -1,0 +1,9 @@
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.CodeAnalysisLog.xml
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.lastcodeanalysissucceeded
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojAssemblyReference.cache
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
+C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb

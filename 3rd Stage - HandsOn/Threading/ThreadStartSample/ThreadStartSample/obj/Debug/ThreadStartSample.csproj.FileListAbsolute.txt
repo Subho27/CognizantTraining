@@ -1,0 +1,7 @@
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Users\amit6\Downloads\pan correction\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

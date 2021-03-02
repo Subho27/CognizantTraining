@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncHandson", "AsyncHandson.csproj", "{DA54D9BD-2511-4458-A681-8192725AB649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA54D9BD-2511-4458-A681-8192725AB649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA54D9BD-2511-4458-A681-8192725AB649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA54D9BD-2511-4458-A681-8192725AB649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA54D9BD-2511-4458-A681-8192725AB649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBA29CE-2228-4D7D-85AE-80C8EF863EC3}
+	EndGlobalSection
+EndGlobal

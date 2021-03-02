@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Stage 3 Handon\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\user\Desktop\Stage 3 Handon\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Stage 3 Handon\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stage 3 Handon\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
+C:\Users\Subhodip\Desktop\Moq\Moq\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\Subhodip\Desktop\Moq\Moq\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\Subhodip\Desktop\Moq\Moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\Subhodip\Desktop\Moq\Moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Subhodip\Desktop\Moq\Moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\Subhodip\Desktop\Moq\Moq\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
