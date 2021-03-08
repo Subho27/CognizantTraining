@@ -1,0 +1,10 @@
+﻿Installing assembly 'C:\Users\user\source\repos\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.InstallLog
+   assemblypath = C:\Users\user\source\repos\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe
+Committing assembly 'C:\Users\user\source\repos\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.InstallLog
+   assemblypath = C:\Users\user\source\repos\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\WindowsServiceDemo.exe

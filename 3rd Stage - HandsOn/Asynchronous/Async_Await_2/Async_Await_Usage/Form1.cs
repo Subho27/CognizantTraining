@@ -22,7 +22,11 @@ namespace Async_Await_Usage
         private int CountCharacters()
         {
             int count = 0;
+<<<<<<< HEAD
             using (StreamReader reader = new StreamReader("C:\\Users\\Subhodip\\Desktop\\abc.txt"))
+=======
+            using (StreamReader reader = new StreamReader(".......filepath to read a file........."))
+>>>>>>> f3b1934f657018e5f903883fc622bc4d22f0ead3
             {
                 string content = reader.ReadToEnd();
                 count = content.Length;
