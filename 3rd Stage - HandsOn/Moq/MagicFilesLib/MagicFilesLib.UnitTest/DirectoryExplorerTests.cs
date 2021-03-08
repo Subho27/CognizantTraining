@@ -21,13 +21,14 @@ namespace MagicFilesLib.UnitTest
 
         [Test]
         [TestCase("abc")]
+        [TestCase("xyz")]
         public void GetFiles_WhenCalled_ReturnListOfFiles(string input)
         {
             var files = _directoryExplorer.Object.GetFiles(input);
 
             Assert.IsNotNull(files);
             Assert.IsTrue(files.Count == 2);
-            Assert.That(files, Contains.Item(_file2));
+            Assert.That(files, Contains.Item(_file1));
         }
     }
 }
