@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Stage 3 Handon\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\user\Desktop\Stage 3 Handon\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Stage 3 Handon\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stage 3 Handon\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb
+C:\Users\user\Desktop\Stage 3 Handon\Nunit\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\Nunit\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\user\Desktop\Stage 3 Handon\Nunit\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stage 3 Handon\Nunit\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\Nunit\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb
+C:\Users\Subhodip\Desktop\Moq\Moq\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\Subhodip\Desktop\Moq\Moq\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\Subhodip\Desktop\Moq\Moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\Subhodip\Desktop\Moq\Moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\Subhodip\Desktop\Moq\Moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\Subhodip\Desktop\Moq\Moq\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Stage 3 Handon\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\user\Desktop\Stage 3 Handon\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Stage 3 Handon\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stage 3 Handon\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\user\Desktop\Stage 3 Handon\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb
+C:\Users\Subhodip\Desktop\Moq\Moq\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\Subhodip\Desktop\Moq\Moq\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\Subhodip\Desktop\Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csprojAssemblyReference.cache
+C:\Users\Subhodip\Desktop\Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Subhodip\Desktop\Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\Subhodip\Desktop\Moq\Moq\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb
