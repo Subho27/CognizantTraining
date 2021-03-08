@@ -22,11 +22,11 @@ namespace Async_Await_Usage
         private int CountCharacters()
         {
             int count = 0;
-            using (StreamReader reader = new StreamReader("C:\\Users\\email\\Documents\\Information.txt"))
+            using (StreamReader reader = new StreamReader("C:\\Users\\Subhodip\\Desktop\\abc.txt"))
             {
                 string content = reader.ReadToEnd();
                 count = content.Length;
-                Thread.Sleep(5000);
+                Thread.Sleep(1000);
             }
             return count;
         }

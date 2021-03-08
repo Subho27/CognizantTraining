@@ -7,3 +7,12 @@ C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csp
 C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
 C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
 C:\Users\amit6\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.CodeAnalysisLog.xml
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.lastcodeanalysissucceeded
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojAssemblyReference.cache
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
+C:\Users\Subhodip\Desktop\New folder\3rd Stage - HandsOn\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
