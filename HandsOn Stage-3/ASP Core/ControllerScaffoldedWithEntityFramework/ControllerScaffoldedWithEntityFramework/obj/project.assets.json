@@ -8825,11 +8825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework.csproj",
+      "projectUniqueName": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework.csproj",
       "projectName": "ControllerScaffoldedWithEntityFramework",
-      "projectPath": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework.csproj",
+      "projectPath": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework.csproj",
       "packagesPath": "C:\\Users\\Subhodip\\.nuget\\packages\\",
-      "outputPath": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework\\obj\\",
+      "outputPath": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\ControllerScaffoldedWithEntityFramework\\ControllerScaffoldedWithEntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Subhodip\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zCH86OEQo9M68axSKi6yb/yXb0XE4fT6VZR+VZT5+voPQF4n7lPEUpsajrxTUSMKMJbymF/GG4ZzbJZHAzD8fw==",
+  "dgSpecHash": "i34n+YU+chS55/5SnnMEJHTSUl6C3yhbEOs3L7qe+4oxARvzC7ZU4obOeBOb3kpRCcmCObY5xu4GzY0CGICXGg==",
   "success": true,
-  "projectFilePath": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
+  "projectFilePath": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Subhodip\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Subhodip\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

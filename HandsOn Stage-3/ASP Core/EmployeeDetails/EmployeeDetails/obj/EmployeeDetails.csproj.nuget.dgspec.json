@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj": {}
+    "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj": {}
   },
   "projects": {
-    "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj": {
+    "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
+        "projectUniqueName": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
         "projectName": "EmployeeDetails",
-        "projectPath": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
+        "projectPath": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
         "packagesPath": "C:\\Users\\Subhodip\\.nuget\\packages\\",
-        "outputPath": "G:\\Documents\\GitHub\\CognizantTraining\\ASP Core\\EmployeeDetails\\EmployeeDetails\\obj\\",
+        "outputPath": "G:\\Documents\\GitHub\\CognizantTraining\\HandsOn Stage-3\\ASP Core\\EmployeeDetails\\EmployeeDetails\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Subhodip\\AppData\\Roaming\\NuGet\\NuGet.Config",

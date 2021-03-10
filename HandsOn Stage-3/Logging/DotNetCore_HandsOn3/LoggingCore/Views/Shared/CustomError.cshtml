@@ -1,0 +1,9 @@
+﻿@{
+    ViewData["Title"] = "CustomError";
+    Exception ex = ViewData["HandleException"] as Exception;
+}
+
+<h1>CustomError</h1>
+<h2>@ex.Message</h2>
+<hr />
+<blockquote>@ex.StackTrace</blockquote>
